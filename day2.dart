@@ -2,7 +2,7 @@ import 'dart:math';
 
 /* 1/6/2022 - Day 2 - 100 Days of Code */
 /* Twitter: @G4MR */
-/* via dart lang run from terminal: `dart dart2.dart` */
+/* via dart lang run from terminal: `dart day2.dart` */
 
 void main() {
   print(binaryToDecimal(101101));
