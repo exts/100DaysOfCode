@@ -1,6 +1,6 @@
 import 'dart:math';
 
-/* 1/5/2022 - Day 2 - 100 Days of Code */
+/* 1/6/2022 - Day 2 - 100 Days of Code */
 /* Twitter: @G4MR */
 /* via dart lang run from terminal: `dart dart2.dart` */
 
