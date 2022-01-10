@@ -1,3 +1,7 @@
+/* 1/8/2022 - Day 4 - 100 Days of Code */
+/* Twitter: @G4MR */
+/* via dart lang run from terminal: `dart day4.dart` */
+
 void main() {
   print(decimalToHex(16777215));
 }
